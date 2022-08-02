@@ -6,6 +6,7 @@ import sys
 
 
 if __name__ == '__main__':
+    # read variable from the user
     n = int(input().strip())
 
 # check if the n is odd
