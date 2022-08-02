@@ -1,5 +1,5 @@
-# Read two variables from user
 if __name__ == '__main__':
+    # Read two variables from user
     a = int(input())
     b = int(input())
     
