@@ -3,7 +3,8 @@
 def split_and_join(line):
     # split(" ") ----> every space it split the string 
     split = line.split(" ")
-    # "-".join   ----> it will replace every space with '-' 
+    # "-".join   ----> it will replace every space with '-'
+    # join will also remove the (, [] '') from the list
     return "-".join(split)
 
 if __name__ == '__main__':
