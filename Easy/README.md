@@ -1,4 +1,4 @@
-#  Easy Problems Solutions
+#  Easy Level Problems Solutions
 -  [Say "Hello, World!" With Python](https://github.com/ShaadyEmad/HackerRank-Python-Solutions/blob/main/Easy/01.%20Say%20%22Hello%2C%20World!%22%20With%20Python.py)\
 [problem link on HackerRank](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
 
