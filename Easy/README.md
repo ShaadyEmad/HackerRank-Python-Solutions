@@ -54,7 +54,7 @@
 [problem link on HackerRank](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)
 
 -  [Text Wrap](https://github.com/ShaadyEmad/HackerRank-Python-Solutions/blob/main/Easy/19.%20Text%20Wrap%20(solution%201).py)\
--  [Text Wrap another Solution](https://github.com/ShaadyEmad/HackerRank-Python-Solutions/blob/main/Easy/19.%20Text%20Wrap%20(solution%202).py)
+-  [Text Wrap another Solution](https://github.com/ShaadyEmad/HackerRank-Python-Solutions/blob/main/Easy/19.%20Text%20Wrap%20(solution%202).py)\
 [problem link on HackerRank](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)
 
 -  [Designer Door Mat](https://github.com/ShaadyEmad/HackerRank-Python-Solutions/blob/main/Easy/20.%20Designer%20Door%20Mat.py)\
